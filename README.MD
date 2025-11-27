@@ -1,0 +1,1 @@
+Machine learning analysis of Algerian forest fires using Ridge regression. Models the relationship between weather conditions (temperature, humidity, wind, rain) and fire weather indices (FWI, FFMC, DMC, ISI) to predict fire risk in the Bejaia and Sidi Bel-abbes regions.
